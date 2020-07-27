@@ -7,6 +7,3 @@
 - **[Time Out](https://apps.apple.com/us/app/time-out-break-reminders/id402592703)** - break reminders
 - **[MollyGuard](http://mollyguard.infinitemonkeytheory.com/)** - lock input(keyboard, mouse/trackpad)
 - **[Sublime Text](https://www.sublimetext.com/3)** - text editor
-- **[Foxit Reader](https://www.foxitsoftware.com/downloads/)** - pdf reader
-
-
