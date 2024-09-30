@@ -1,0 +1,11 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+/* show close button on hover */
+.tabbrowser-tab .tab-close-button { display:none; }
+.tabbrowser-tab:not([pinned]):hover .tab-close-button { display: flex !important; align-items: center; }
+
+/* tab font size */
+.tab-label {
+  font-size: 13px !important;
+}
+
