@@ -8,4 +8,3 @@
 - **[Tomito](https://apps.apple.com/app/tomito/id1526042938)** - break reminders
 - **[MollyGuard](http://mollyguard.infinitemonkeytheory.com/)** - lock input(keyboard, mouse/trackpad)
 - **[Mos](https://mos.caldis.me/)** - smooth mouse scroll
-- **[Sublime Text](https://www.sublimetext.com/3)** - text editor
